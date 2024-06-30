@@ -1,0 +1,13 @@
+.container{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.input{
+    width: 220px;
+    padding: 4px 0px;
+}
+
+.label{
+    display: block;
+}

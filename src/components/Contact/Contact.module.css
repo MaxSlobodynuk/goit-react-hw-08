@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    width: 220px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    border: 1px solid #000000;
+}
+
+.contactContainer{
+    margin-right: 40px;
+}
+
+.name{
+    margin-bottom: 8px;
+}
+
+.contactButton {
+  cursor: pointer;
+  border-radius: 3px;
+  border: 1px solid #000000;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
